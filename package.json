@@ -1,0 +1,23 @@
+{
+  "name": "scripts",
+  "version": "0.0.1",
+  "description": "Scripts",
+  "private": true,
+  "bin": {
+    "scripts": "./bin/scripts.js"
+  },
+  "dependencies": {
+    "chalk": "2.3.0",
+    "cosmiconfig": "4.0.0",
+    "eslint": "4.15.0",
+    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-react": "7.5.1",
+    "glob": "7.1.2",
+    "npm-run": "4.1.2",
+    "prettier": "1.10.2",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.11.0"
+  }
+}
